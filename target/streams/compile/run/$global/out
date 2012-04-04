@@ -1,0 +1,54 @@
+[0m[[0minfo[0m] [0mRunning org.solutionset.akkaredis.worker.WorkerApp WorkerSys2 2554[0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/work/redis-akka/target/scala-2.9.1/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.sbt/boot/scala-2.9.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/com.typesafe.akka/akka-actor/jars/akka-actor-2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/com.typesafe.akka/akka-remote/jars/akka-remote-2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/io.netty/netty/bundles/netty-3.3.0.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/com.google.protobuf/protobuf-java/jars/protobuf-java-2.4.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/net.debasishg/sjson_2.9.1/jars/sjson_2.9.1-0.15.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/net.databinder/dispatch-json_2.9.1/jars/dispatch-json_2.9.1-0.8.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/org.objenesis/objenesis/jars/objenesis-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/commons-io/commons-io/jars/commons-io-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/voldemort.store.compress/h2-lzf/jars/h2-lzf-1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/com.typesafe.akka/akka-kernel/jars/akka-kernel-2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/net.debasishg/redisclient_2.9.1/jars/redisclient_2.9.1-2.4.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/commons-pool/commons-pool/jars/commons-pool-1.5.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/logan.giorda/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.1.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Hashed wheel timer #1 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-5 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-scheduler-[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-2 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-2 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-akka.actor.default-dispatcher-3 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-akka.actor.default-dispatcher-3 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-akka.actor.default-dispatcher-4 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-akka.actor.default-dispatcher-4 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-7 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-7 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-1 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-scheduler-1 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-scheduler-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-3 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-3 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-5 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-6 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-6 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-akka.actor.default-dispatcher-1 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-akka.actor.default-dispatcher-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread WorkerSys-8 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread WorkerSys-8 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

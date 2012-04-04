@@ -1,0 +1,45 @@
+gen-idea
+exit
+update
+exit
+update
+exit
+update
+gen-idea
+exit
+update
+gen-idea
+exit
+run
+ls
+exit
+eclipse
+update
+run
+compile
+run
+run test 5
+inspect run
+run org.solutionset.redisakka.WorkServerActorSystem.WorkServerApp
+exit
+inspect run
+run main-class
+update
+compile
+exit
+inspect run
+run
+update
+compile
+run
+inspect run
+run org.solutionset.akkaredis.worker.WorkerApp WorkSys1 2553
+run WorkSys1 2553
+run WorkerSys1 2553
+run
+run WorkerSys1 2553
+run
+run WorkerSys1 2553
+run
+run WorkerSys1 2553
+run WorkerSys2 2554

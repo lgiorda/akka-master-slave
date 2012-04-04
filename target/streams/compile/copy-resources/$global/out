@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/logan.giorda/work/redis-akka/src/main/resources/application.conf,/Users/logan.giorda/work/redis-akka/target/scala-2.9.1/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/logan.giorda/work/redis-akka/src/main/resources/common.conf,/Users/logan.giorda/work/redis-akka/target/scala-2.9.1/classes/common.conf)[0m
